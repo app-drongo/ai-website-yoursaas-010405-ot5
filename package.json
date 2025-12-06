@@ -1,5 +1,5 @@
 {
-  "name": "yoursaas",
+  "name": "saas-company",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -76,5 +76,5 @@
     "tw-animate-css": "^1.3.6",
     "typescript": "^5"
   },
-  "description": "AI-generated website: YourSaaS"
+  "description": "AI-generated website: SaaS Company"
 }
