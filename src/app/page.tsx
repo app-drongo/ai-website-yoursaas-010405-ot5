@@ -1,7 +1,23 @@
-export default function ComponentPage() {
+import Hero from '@/components/sections/home/Hero'
+import Features from '@/components/sections/home/Features'
+import Pricing from '@/components/sections/home/Pricing'
+import Contact from '@/components/sections/home/Contact'
+
+export default function HomePage() {
   return (
-    <div className="min-h-screen flex items-center justify-center">
-      <h1 className="text-4xl font-bold">undefined</h1>
-    </div>
+    <>
+      <section id="hero">
+        <Hero />
+      </section>
+      <section id="features">
+        <Features />
+      </section>
+      <section id="pricing">
+        <Pricing />
+      </section>
+      <section id="contact">
+        <Contact />
+      </section>
+    </>
   )
 }

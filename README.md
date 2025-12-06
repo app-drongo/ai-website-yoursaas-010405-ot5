@@ -1,4 +1,4 @@
-# SaaS Company
+# YourSaaS
 
 Generated with AI Website Builder - Template-based Assembly System
 
@@ -8,7 +8,7 @@ This project was generated using a local Next.js template enhanced with AI-gener
 
 - **Industry**: tech
 - **Style**: modern
-- **Brand**: SaaS Company
+- **Brand**: YourSaaS
 - **Pages**: 1
 - **Components**: 0
 - **Theme**: minimal preset with AI-generated colors
@@ -168,4 +168,4 @@ To modify the theme, update the CSS variables in the `:root` selector.
 This project is private and proprietary.
 
 ---
-Generated on 2025-12-06T17:23:12.531Z
+Generated on 2025-12-06T17:26:58.051Z

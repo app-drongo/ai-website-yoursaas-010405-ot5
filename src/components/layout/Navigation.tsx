@@ -2,7 +2,7 @@
 
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
-import { Menu, X, Zap } from 'lucide-react';
+import { Menu, Zap } from 'lucide-react';
 import { useState, useEffect } from 'react';
 import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
@@ -12,6 +12,7 @@ const DEFAULT_NAVIGATION = {
   navItems: [
     { label: 'Home', href: '#hero' },
     { label: 'Features', href: '#features' },
+    { label: 'Pricing', href: '#pricing' },
     { label: 'Contact', href: '#contact' },
   ],
   ctaText: 'Get Started',

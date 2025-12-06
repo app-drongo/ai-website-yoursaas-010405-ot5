@@ -1,7 +1,7 @@
 {
-  "name": "SaaS Company",
-  "short_name": "SaaS Company",
-  "description": "SaaS Company - AI Generated Website",
+  "name": "YourSaaS",
+  "short_name": "YourSaaS",
+  "description": "YourSaaS - AI Generated Website",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
